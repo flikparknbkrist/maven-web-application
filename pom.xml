@@ -24,11 +24,11 @@
 		bd036ddaab751d6aeeb0945e7a085a4a68d8d6e5
 		
 		<sonar.host.url>http://18.223.168.80:9000/</sonar.host.url>
-		<sonar.login>bd036ddaab751d6aeeb0945e7a085a4a68d8d6e5</sonar.login>
-		<!--
+		<!--<sonar.login>bd036ddaab751d6aeeb0945e7a085a4a68d8d6e5</sonar.login>-->
+		
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password> 
-		-->
+	
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
